@@ -420,3 +420,18 @@ This workflow provides a foundation for further enhancements with additional dat
 ## 🚀 Author
 - **[Sara Arif]**
 - Data Science Intern
+
+
+# My License Repository
+
+This repository contains content protected under the Creative Commons BY-NC-ND 4.0 License.
+
+## 📜 License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International** license.
+
+- 📖 [Read Full License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+- ✅ You can view and share.
+- ❌ No commercial use.
+- ❌ No modifications allowed.
+
