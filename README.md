@@ -410,7 +410,10 @@ This workflow provides a foundation for further enhancements with additional dat
 
 ## 📁 Dataset Source
 
-[Bank Marketing Dataset – UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+Task02-  https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
+Task03-  https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling
+Task04-  https://www.kaggle.com/datasets/mirichoi0218/insurance
+Task05-  https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
 
 ## 🚀 Author
